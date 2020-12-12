@@ -1,0 +1,27 @@
+{
+  "name": "training-work1",
+  "version": "1.0.0",
+  "description": "Webpack install",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Halyna30/training-work1.git"
+  },
+  "author": "Halyna Pryn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Halyna30/training-work1/issues"
+  },
+  "homepage": "https://github.com/Halyna30/training-work1#readme",
+  "devDependencies": {
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.6"
+  }
+}
